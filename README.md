@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/One-2-3-45-modal/blob/main/One_2_3_45_modal.ipynb) | One-2-3-45-modal
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/One-2-3-45-modal/blob/main/One_2_3_45_modal.ipynb) | One-2-3-45-modal (A10G)
 
 ## Main Repo
 https://github.com/One-2-3-45/One-2-3-45
