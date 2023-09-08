@@ -17,7 +17,7 @@ https://arxiv.org/abs/2306.16928
 ## Output
 | --half_precision A10G | --half_precision A10G |  --half_precision A10G |
 | -- | -- | -- |
-![Screenshot 2023-09-08 123147](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/e7b9b3be-0ccc-4d57-87e7-8dd92fc68e89) | ![Screenshot 2023-09-08 123215](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/e1e2958c-b1fc-43b1-9b59-a5252329738a) | ![Screenshot 2023-09-08 123240](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/1534c290-8b8b-4ebb-8b2b-aad4c0ce87bf)
+![266568065-e1e2958c-b1fc-43b1-9b59-a5252329738a](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/8083ecad-aaeb-41e8-b423-d481ee66a19e) | ![266568074-1534c290-8b8b-4ebb-8b2b-aad4c0ce87bf](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/be49ff61-9524-407e-a00d-cc3f5a797071) | ![266568059-e7b9b3be-0ccc-4d57-87e7-8dd92fc68e89](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/2dada228-e347-4ed8-b705-ac3d0bfb30b9)
 
 ## Output Demo
-![Screenshot 2023-09-08 180054](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/e1e35c4d-813e-4f81-86c1-51e4bc70de96)
+![266651138-e1e35c4d-813e-4f81-86c1-51e4bc70de96](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/684a12e3-4772-4f4a-8688-f06e1188b626)
