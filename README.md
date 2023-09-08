@@ -17,6 +17,8 @@ https://arxiv.org/abs/2306.16928
 ## Tutorial
 First set your --token-id TOKEN-ID and --token-secret TOKEN-SECRET get the tokens from https://modal.com/settings/tokens
 
+![Screenshot 2023-09-08 210235](https://github.com/camenduru/stable-diffusion-webui-modal/assets/54370274/c5b3236c-61a2-457d-8155-19367f48b765)
+
 We should wait until the model is loaded into VRAM.
 
 ![Screenshot 2023-09-08 190744](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/58dddee2-ffa3-4e83-a0d9-dc08897d8016)
