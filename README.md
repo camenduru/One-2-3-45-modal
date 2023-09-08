@@ -14,6 +14,11 @@ https://github.com/One-2-3-45/One-2-3-45
 ## Paper
 https://arxiv.org/abs/2306.16928
 
+## Tutorial
+We should wait until the model is loaded into VRAM.
+
+![Screenshot 2023-09-08 190744](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/58dddee2-ffa3-4e83-a0d9-dc08897d8016)
+
 ## Output
 | --half_precision A10G | --half_precision A10G |  --half_precision A10G |
 | -- | -- | -- |
