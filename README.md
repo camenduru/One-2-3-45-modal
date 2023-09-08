@@ -32,3 +32,6 @@ The One-2-3-45 URL will appear in your log.
 
 ## Output Demo
 ![266651138-e1e35c4d-813e-4f81-86c1-51e4bc70de96](https://github.com/camenduru/One-2-3-45-modal/assets/54370274/684a12e3-4772-4f4a-8688-f06e1188b626)
+
+https://github.com/camenduru/One-2-3-45-modal/assets/54370274/bcea3d1c-cd7f-4edc-8086-de31edce72ff
+
