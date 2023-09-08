@@ -4,7 +4,9 @@ stub = modal.Stub("One-2-3-45")
 volume = modal.NetworkFileSystem.new().persisted("One-2-3-45")
 
 @stub.function(
-    modal.Image.from_registry("chaoxu98/one2345:1.0").pip_install("fire").run_commands(
+    modal.Image.from_registry("chaoxu98/one2345:1.0")
+    .pip_install("fire")
+    .run_commands(
         "wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb && \
         dpkg -i cloudflared-linux-amd64.deb"
     ),
